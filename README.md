@@ -1,2 +1,2 @@
 # HTML-Basics
-I should know HTML better
+What is essential in HTML
